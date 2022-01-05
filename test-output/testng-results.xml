@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="4027" started-at="2022-01-05T05:14:18Z" finished-at="2022-01-05T05:14:22Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="4027" started-at="2022-01-05T05:14:18Z" finished-at="2022-01-05T05:14:22Z">
+      <class name="testing.AdminSeleniumTest">
+        <test-method status="PASS" signature="ubuntumain()[pri:0, instance:testing.AdminSeleniumTest@735b5592]" name="ubuntumain" duration-ms="4004" started-at="2022-01-05T10:44:18Z" finished-at="2022-01-05T10:44:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ubuntumain -->
+      </class> <!-- testing.AdminSeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
