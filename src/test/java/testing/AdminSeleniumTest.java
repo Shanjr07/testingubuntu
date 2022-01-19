@@ -25,8 +25,8 @@ public class AdminSeleniumTest {
 		//System.setProperty("webdriver.chrome.driver", "/usr/bin/chromedriver");
         // System.setProperty("webdriver.chrome.driver","D:\\New folder\\appmvt-20211129T095833Z-001\\appmvt\\driver\\chromedriver.exe");
 
-		WebDriver driv = new ChromeDriver(chromeOptions);
-		//WebDriver driv = new ChromeDriver();
+		//WebDriver driv = new ChromeDriver(chromeOptions);
+		WebDriver driv = new ChromeDriver();
 		driv.get("https://www.google.com/");
 		System.out.println("started successfully");
         
